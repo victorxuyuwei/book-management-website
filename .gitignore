@@ -2,6 +2,14 @@
 Thumbs.db
 ehthumbs.db
 
+#zend development files
+.settings/
+.buildpath
+.project
+
+#vim
+*~
+
 # Folder config file
 Desktop.ini
 
